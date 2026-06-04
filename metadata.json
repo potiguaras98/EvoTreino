@@ -1,0 +1,6 @@
+{
+  "name": "Evolução de Treinos e Carga",
+  "description": "Aplicativo de treino personalizado com histórico de exercícios, progressão de carga, gráficos semanais de evolução, sugestões de descanso e lembretes.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
